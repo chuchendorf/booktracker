@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	margin-top: 100px;
+}
+h1 { font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", 
+serif; font-size: 50px; 
+font-style: bold; 
+font-variant: normal; 
+font-weight: 400; 
+line-height: 50px; }
+h2 { font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", 
+serif; font-size: 25px; 
+font-style: bold; 
+font-variant: normal; 
+font-weight: 400; 
+line-height: 50px; }
+button,
+button:focus {
+	touch-action: manipulation;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", 
+serif; font-size: 12px; 
+font-style: bold; 
+font-variant: oblique; 
+font-weight: 400; 
+line-height: 16px; }
